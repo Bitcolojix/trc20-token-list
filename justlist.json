@@ -1,0 +1,19 @@
+{
+  "name": "TRC20 Token List",
+  "timestamp": "2025-02-24T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TRg7AuYmZpNybR8PqY4uFdEBwCtACGZrqB",
+      "name": "Usd Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://yourdomain.com/logo.png"
+    }
+  ]
+}

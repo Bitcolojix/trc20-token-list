@@ -13,7 +13,7 @@
       "name": "Usd Tether",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+      "logoURI": "https://static.tronscan.org/production/logo/usdtlogo.png"
     }
   ]
 }

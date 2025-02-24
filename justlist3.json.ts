@@ -7,7 +7,7 @@
     "minor": 0,
     "patch": 0
   },
-  "keywords": ["TRC20", "Token", "USDT"],
+  
   "tokens": [
     {
       "chainId": 1,

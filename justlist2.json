@@ -7,6 +7,7 @@
             "chainId":1,
             "decimals":18,
             "name":"SUN TOKEN",
+            "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
             
         },
         {
@@ -15,6 +16,7 @@
             "chainId":1,
             "decimals":6,
             "name":"USD TETHER",
+            "logoURI":"https://coin.top/production/logo/usdtlogo.png"
             
         },
         {
@@ -23,6 +25,7 @@
             "chainId":1,
             "decimals":8,
             "name":"Wrapped BTC",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
            
         },
         {
@@ -31,6 +34,7 @@
             "chainId":1,
             "decimals":18,
             "name":"Ethereum",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
             
         },
         {
@@ -39,6 +43,7 @@
             "chainId":1,
             "decimals":18,
             "name":"Wrapped ETH",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
            
         },
         {
@@ -47,6 +52,7 @@
             "chainId":1,
             "decimals":6,
             "name":"Wrapped BitTorrent",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
             
         },
         {
@@ -55,6 +61,7 @@
             "chainId":1,
             "decimals":6,
             "name":"Wrapped TRX",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
          
         },
         {
@@ -63,6 +70,7 @@
             "chainId":1,
             "decimals":18,
             "name":"JUST GOV v1.0",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
             
         },
         {
@@ -71,6 +79,7 @@
             "chainId":1,
             "decimals":6,
             "name":"WINK",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
             
         },
         {
@@ -79,6 +88,7 @@
             "chainId":1,
             "decimals":6,
             "name":"TRONbetDice",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
             
         },
         {
@@ -87,6 +97,7 @@
             "chainId":1,
             "decimals":6,
             "name":"TRONbetLive",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
             
         },
         {
@@ -95,6 +106,7 @@
             "chainId":1,
             "decimals":18,
             "name":"JUST Stablecoin v1.0",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
           
         },
         {
@@ -103,6 +115,7 @@
             "chainId":1,
             "decimals":8,
             "name":"Litecoin",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
         
         },
         {
@@ -111,6 +124,7 @@
             "chainId":1,
             "decimals":18,
             "name":"HuobiToken",
+            "logoURI":"https://coin.top/production/logo/usdj.png"
          
         }
     ],

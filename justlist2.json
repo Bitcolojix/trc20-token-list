@@ -90,14 +90,6 @@
             
         },
         {
-            "symbol":"USDT",
-            "address":"TRg7AuYmZpNybR8PqY4uFdEBwCtACGZrqB",
-            "chainId":1,
-            "decimals":6,
-            "name":"Tether USD",
-            
-        },
-        {
             "symbol":"USDJ",
             "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
             "chainId":1,
